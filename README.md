@@ -6,7 +6,7 @@
 2. Compile and Deploy Your Contract in the JavaScript VM
 3. Interact with Your Deployed Smart Contract
 
-## Execution Results
+## Execution Results:
 
 **Deploy Smart Contract**
 ---
@@ -42,10 +42,10 @@
 
 **Withdraw 5 Ether to Account 1 & Check Balances**
 ---
-![Image 9](Execution_Results/WithdrawAccount1.jpg)
+![Image 9](Execution_Results/WithdrawalAccount1.jpg)
 
 **Withdraw 10 Ether to Account 2 & Check Balances**
 ---
-![Image 10](Execution_Results/WithdrawAccount2.jpg)
+![Image 10](Execution_Results/WithdrawalAccount2.jpg)
 
 
